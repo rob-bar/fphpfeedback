@@ -1,4 +1,7 @@
 <?php
+// ==========
+// = SHABIR =
+// ==========
 //REMARK 1:
 class Model_User extends \Orm\Model {
 	protected static $_properties = array(
