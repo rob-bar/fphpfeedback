@@ -11,6 +11,3 @@ Projects feedback
 ##SECOND EVALUATION
 ####1: Remove unnecessary files (e.g. Welcome controller)
 ####2: Use yml instead of php for multilang
-
-I would like to mention that you both ignored some rules of the previous evaluation.
-I would also recommend looking at this project as an example [Scansource](https://proximity-bbdo.beanstalkapp.com/scansource-activationplatform2012/browse/git)
